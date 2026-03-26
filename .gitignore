@@ -3,3 +3,5 @@
 /.svelte-kit
 /static/landuse.pmtiles
 .DS_Store
+/.netlify/*
+/.netlify/
